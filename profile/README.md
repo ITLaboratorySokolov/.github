@@ -1,9 +1,9 @@
-# Zdravím,
+# ZdravÃ­m
 
-tato organizace slouí k uschování programovıch kódu a dalších dokumentù pro projekt IT Laboratoøe pro Gymnázium Sokolov, kterı probíhá na Fakultì aplikovanıch vìd na Západoèeské univerzitì.
+Tato organizace slouÅ¾Ã­ k uschovÃ¡nÃ­ programovÃ½ch kÃ³du a dalÅ¡Ã­ch dokumentÅ¯ pro projekt IT LaboratoÅ™e pro GymnÃ¡zium Sokolov, kterÃ½ probÃ­hÃ¡ na FakultÄ› aplikovanÃ½ch vÄ›d na ZÃ¡padoÄeskÃ© univerzitÄ›.
 
-## Zásady
+## ZÃ¡sady
 
-- Pro kadou úlohu (projekt) bude vytvoøené samostatné repository. 
-- Kadé nové repository vytváøejte jako **privátní**. Pokud nebude domluveno jinak.
-- Správa repository bude primárnì v rukou toho, kdo ho vytvoøí. Snate se pøíliš nezasahovat do repository ostatních. Pokud však naleznete nìjakı problém mùete v daném repository vytvoøit issue.
+- Pro kaÅ¾dou Ãºlohu (projekt) bude vytvoÅ™enÃ© samostatnÃ© repository. 
+- KaÅ¾dÃ© novÃ© repository vytvÃ¡Å™ejte jako **privÃ¡tnÃ­**. Pokud nebude domluveno jinak.
+- SprÃ¡va repository bude primÃ¡rnÄ› v rukou toho, kdo ho vytvoÅ™Ã­. SnaÅ¾te se pÅ™Ã­liÅ¡ nezasahovat do repository ostatnÃ­ch. Pokud vÅ¡ak naleznete nÄ›jakÃ½ problÃ©m mÅ¯Å¾ete v danÃ©m repository vytvoÅ™it issue.
