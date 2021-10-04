@@ -6,4 +6,4 @@ Tato organizace slouží k uschování programových kódu a dalších dokument�
 
 - Pro každou úlohu (projekt) bude vytvořené samostatné repository. 
 - Každé nové repository vytvářejte jako **privátní**. Pokud nebude domluveno jinak.
-- Správa repository bude primárně v rukou toho, kdo ho vytvoří. Snažte se příliš nezasahovat do repository ostatních. Pokud však naleznete nějaký problém můžete v daném repository vytvořit issue.
+- Správa repository bude primárně v rukou toho, kdo ho vytvoří. Snažte se příliš nezasahovat do repository ostatních. Pokud však naleznete nějaký problém, můžete v daném repository vytvořit issue.
